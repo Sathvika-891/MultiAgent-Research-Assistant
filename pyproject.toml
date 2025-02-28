@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "multiagent-research-assistant"
+version = "0.1.0"
+description = "Multi Agent System built with langgraph"
+authors = ["Sathvika-891 <n171254@rguktn.ac.in>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain-community = "^0.3.18"
+langgraph = "^0.2.74"
+ipykernel = "^6.29.5"
+xmltodict = "^0.14.2"
+langchain-together = "^0.3.0"
+arxiv = "^2.1.3"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
