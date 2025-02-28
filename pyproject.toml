@@ -2,7 +2,7 @@
 name = "multiagent-research-assistant"
 version = "0.1.0"
 description = "Multi Agent System built with langgraph"
-authors = ["Sathvika-891 <n171254@rguktn.ac.in>"]
+authors = ["Sathvika-891 sathvikakopalli@gmail.com"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
